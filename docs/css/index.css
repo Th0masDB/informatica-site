@@ -3,14 +3,14 @@ html{
   width: 100%;
 }
 body {
-  background-color: black;
+  background-color: white;
   padding: 0;
   margin: 0;
   height: 100%;
 }
 #wrapper {
   width: 1024px;
-  background-color: yellow;
+  background-color: blue;
   height: calc(100% - 46px);
   fle
 }
@@ -20,7 +20,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
 }
 .menuclass {
   display: block;
@@ -34,5 +34,5 @@ body {
   background-color: #111;
 }
 .active {
-  background-color: #4CAF50;
+  background-color: #79b8b8;
 }
