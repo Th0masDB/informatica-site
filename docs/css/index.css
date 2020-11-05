@@ -32,8 +32,9 @@ body {
   float: left;
 }
 .menuclass:hover:not(.active){
-  background-color: #111;
+  background-color: #F7E733;
 }
 .active {
   background-color: #b57cf2;
 }
+
