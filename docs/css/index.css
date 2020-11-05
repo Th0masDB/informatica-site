@@ -1,0 +1,38 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: black;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+#wrapper {
+  width: 1024px;
+  background-color: green;
+  height: calc(100% - 46px);
+  fle
+}
+
+#menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.menuclass {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: left;
+}
+.menuclass:hover:not(.active){
+  background-color: #111;
+}
+.active {
+  background-color: #4CAF50;
+}
