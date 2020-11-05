@@ -10,9 +10,10 @@ body {
 }
 #wrapper {
   width: 1024px;
-  background-color: blue;
+  background-color: green;
   height: calc(100% - 46px);
-  fle
+  left: calc(50% - 512px);
+  position: relative;
 }
 
 #menu {
