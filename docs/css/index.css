@@ -10,7 +10,7 @@ body {
 }
 #wrapper {
   width: 1024px;
-  background-color: green;
+  background-color: #ab8acf;
   height: calc(100% - 46px);
   left: calc(50% - 512px);
   position: relative;
@@ -35,5 +35,5 @@ body {
   background-color: #111;
 }
 .active {
-  background-color: #79b8b8;
+  background-color: #b57cf2;
 }
