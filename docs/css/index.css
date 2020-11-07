@@ -30,6 +30,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   float: left;
+  font-family: 'Montserrat', sans-serif;
 }
 .menuclass:hover:not(.active){
   background-color: #F7E733;
