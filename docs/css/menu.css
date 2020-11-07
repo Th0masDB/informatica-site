@@ -15,6 +15,10 @@ body {
 	color: #FFFFFF;
     text-decoration: none;
 }
+.noDec-black {
+	color: black;
+    text-decoration: none;
+}
 
 /* menu */
 
@@ -44,6 +48,11 @@ body {
   width: calc(50% - 512px);
   height: 45px;
   float: left;
+}
+.menuClassRight {
+  width: calc(50% - 512px);
+  height: 45px;
+  float: right;
 }
 
 /* footer */

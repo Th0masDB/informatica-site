@@ -1,0 +1,42 @@
+#wrapper {
+  width: 1024px;
+  background-color: #ab8acf;
+  height: calc(100% - 46px);
+  left: calc(50% - 512px);
+  position: relative;
+}
+
+#WelkomTekst {
+  height: auto;
+  min-height: 100%;
+  width: 1010px;
+  float: right;
+}
+
+#tekstbox-top {
+  width: 100%;
+  height: 100px;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+}
+#tekstbox-bottem {
+  width: 100%;
+  height: auto;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  
+
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
