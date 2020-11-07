@@ -1,6 +1,6 @@
 # informatica-site
 
-De link naar de site is: https://thomas-bastiaens.github.io/informatica-site/
+De link naar de site is: https://th0masdb.github.io/informatica-site/
 
 Deze site hebben we gemaakt voor een informatica opdracht voor school. Havo 4.
 Dit is geen 'pro' site, maar wel iets dat een basic persoon gemaakt kan hebben. ;-)
