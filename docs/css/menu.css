@@ -11,6 +11,10 @@ body {
   height: 100%;
   min-width: 1024px;
 }
+.noDec {
+	color: #FFFFFF;
+    text-decoration: none;
+}
 
 /* menu */
 
