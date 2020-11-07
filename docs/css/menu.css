@@ -1,3 +1,5 @@
+
+/* algemeen */
 html{
   height: 100%;
   width: 100%;
@@ -9,6 +11,9 @@ body {
   height: 100%;
   min-width: 1024px;
 }
+
+/* menu */
+
 #menu {
   list-style-type: none;
   margin: 0;
@@ -34,5 +39,22 @@ body {
 .menuClassLeft {
   width: calc(50% - 512px);
   height: 45px;
+  float: left;
+}
+
+/* footer */
+
+#footer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e6e6e6;
+  bottom: 0;
+  height: 100px;
+}
+.footerClassLeft {
+  width: calc(50% - 512px);
+  height: 100px;
   float: left;
 }
