@@ -11,6 +11,6 @@ Punt: Nog niet ingeleverd.
 
 ## Andere projecten waar we gebruik van gemaakt hebben:
 
-Google Fonts, met de fonts: Montserrat
+Google Fonts, met de fonts: Montserrat, Open Sans
 
 thomasb.info, gebruik gemaakt van code deze site.
