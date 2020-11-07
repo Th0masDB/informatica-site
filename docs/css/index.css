@@ -1,14 +1,3 @@
-html{
-  height: 100%;
-  width: 100%;
-}
-body {
-  background-color: white;
-  padding: 0;
-  margin: 0;
-  height: 100%;
-  min-width: 1024px;
-}
 #wrapper {
   width: 1024px;
   background-color: #ab8acf;
@@ -16,35 +5,6 @@ body {
   left: calc(50% - 512px);
   position: relative;
 }
-
-#menu {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: black;
-}
-.menuclass {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  float: left;
-  font-family: 'Montserrat', sans-serif;
-}
-.menuclass:hover:not(.active){
-  background-color: #F7E733;
-}
-.active {
-  background-color: #b57cf2;
-}
-.menuClassLeft {
-  width: calc(50% - 512px);
-  height: 45px;
-  float: left;
-}
-
 
 #WelkomTekst {
   height: 100%;
