@@ -44,3 +44,39 @@ body {
   height: 45px;
   float: left;
 }
+
+
+#WelkomTekst {
+  height: 100%;
+  width: 100%;
+}
+
+#tekstbox-top {
+  top: 25%;
+  width: 100%;
+  height: 100px;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+}
+#tekstbox-bottem {
+  top: 25%;
+  width: 100%;
+  height: 200px;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  
+
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
