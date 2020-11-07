@@ -8,3 +8,7 @@ Doe er je voordeel mee! Let wel op voor plagiaat controle!
 
 
 Punt: Nog niet ingeleverd. 
+
+## Andere projecten waar we gebruik van gemaakt hebben:
+
+Google Fonts
