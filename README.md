@@ -14,3 +14,13 @@ Punt: Nog niet ingeleverd.
 Google Fonts, met de fonts: Montserrat, Open Sans
 
 thomasb.info, gebruik gemaakt van code deze site.
+
+CDNJS
+
+Font Awesome
+
+## Gemaakt door:
+
+ThomasDB__
+
+Luuk
