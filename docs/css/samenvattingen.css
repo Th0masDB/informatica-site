@@ -27,7 +27,7 @@
   font-family: 'Open Sans', sans-serif;
   font-size: 40px;
 }
-#tekstbox-bottem {
+.tekstbox-bottem {
   width: 100%;
   height: auto;
   position: relative;
@@ -44,3 +44,32 @@
 .magin10 {
   margin: 10px;
 }
+
+#welkNiveau{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #856ca1;
+  left: -14px;
+  width: calc(100% + 14px);
+  position: relative;
+}
+.niveauButton {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+}
+.niveauButton:hover:not(.activeNiveau) {
+  background-color: #64517a;
+}
+
+.displayNone {
+  display: none;
+}
+
+
