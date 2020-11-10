@@ -2,13 +2,17 @@
 name: Samenvatting upload
 about: Via dit kun je een samenvatting uploaden.
 title: "[Nieuwe samenvatting]"
-labels: ''
+labels: '[Nieuwe samenvatting]'
 assignees: ''
 
 ---
 
 # Samenvatting upload
 
-**Vermeld goed:**
+**Welk vak is van?**
 
-Welk vak het van is, welk boek je hebt, welk jaar je in zit, welk niveau je doet en welk hoofdstuk(en) het van is.
+**Welk boek is van?**
+
+**Welk hoofdstuk is van?**
+
+**Optioneel, welke school**
