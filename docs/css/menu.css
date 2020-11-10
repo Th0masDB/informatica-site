@@ -42,7 +42,7 @@ body {
   background-color: #519ad6;
 }
 .active {
-  background-color: #b57cf2;
+  background-color: FFF8F0;
 }
 .menuClassLeft {
   width: calc(50% - 512px);
