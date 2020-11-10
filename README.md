@@ -3,7 +3,7 @@
 De link naar de site is: https://th0masdb.github.io/informatica-site/
 
 Deze site hebben we gemaakt voor een informatica opdracht voor school. Havo 4.
-Dit is geen 'pro' site, maar wel iets dat een basic persoon gemaakt kan hebben. ;-)
+Dit is geen 'pro' site, want dat zijn wij ook niet ;-)
 Doe er je voordeel mee! Let wel op voor plagiaat controle!
 
 
