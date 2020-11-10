@@ -39,7 +39,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 .menuclass:hover:not(.active){
-  background-color: #F7E733;
+  background-color: #519ad6;
 }
 .active {
   background-color: #b57cf2;
