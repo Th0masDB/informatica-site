@@ -1,6 +1,6 @@
 #wrapper {
   width: 1024px;
-  background-color: #8DA1B9;
+  background-color: white;
   height: calc(100% - 46px);
   left: calc(50% - 512px);
   position: relative;
@@ -50,14 +50,14 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #856ca1;
+  background-color: #f7f7f7;
   left: -14px;
   width: calc(100% + 14px);
   position: relative;
 }
 .niveauButton {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
