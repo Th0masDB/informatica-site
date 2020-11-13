@@ -42,6 +42,8 @@ Font Awesome
 
 ## Gemaakt door:
 
-ThomasDB__
+ThomasDB__ (Code)
 
-Luuk
+Luuk (Code)
+
+Naomi (Samenvattingen)
