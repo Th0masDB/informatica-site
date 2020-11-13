@@ -46,4 +46,4 @@ ThomasDB__ (Code)
 
 Luuk (Code)
 
-Naomi (Samenvattingen)
+Naomi Baniak (Samenvattingen)
